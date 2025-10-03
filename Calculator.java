@@ -23,5 +23,6 @@ public class Calculator {
         System.out.println("Sub: " + calc.sub(10, 5));
         System.out.println("Div: " + calc.div(10,5));
         System.out.println("Mul: " + calc.mul(10,5));
+        System.out.println("Div: " + calc.div(10,50));
     }
 }
